@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#dead{
+    color: white;
+}
+#imgdoc{
+    
+    border: 1px solid #3C4151;
+}
+.container-sm{
+    margin-top: 5rem;
+    border-radius: 20px;
+}
+.lifo tr{
+    border: 1px solid white;
+}
+
+#table{
+    visibility: hidden;
+    
+}
+#store{
+   
+    margin-top: 2rem;
+    width: 10rem;
+}
+#knowout{
+    color: aliceblue;
+    margin-top: 10px;
+}
+#you{
+    border: 2px solid saddlebrown;
+    padding: 2rem;
+    margin-left: 25rem;
+    margin-top: 2rem;
+}
+
+#poke{
+    height: 10rem;
+    width: auto;
+    margin-left: 25rem;
+}
+#gif{
+    border: 3px solid saddlebrown;
+    padding: 10px;
+    max-width: 100%;
+    height: auto;    
+}
